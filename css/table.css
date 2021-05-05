@@ -1,0 +1,31 @@
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tableCaption {
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.tableCell {
+    border: 1px solid rgb(10, 3, 29);
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tableHeader {
+    background-color: hsl(16, 71%, 51%);
+    color: white;
+    font-weight: normal;
+}
+
+.tableRow:hover {
+    background-color: rgb(197, 194, 194);
+}
+
+.tableContainer {
+    overflow-x: auto;
+}

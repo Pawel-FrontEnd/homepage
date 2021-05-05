@@ -1,0 +1,38 @@
+.unorderedList {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.listItem {
+    margin: 10px 0;
+    min-height: 35px;
+}
+
+.navigationLink {
+    text-decoration: none;
+    color: rgb(3, 141, 175);
+}
+
+.navigationLink:focus {
+    color: rgb(131, 131, 165);
+}
+
+.navigationLink:hover {
+    font-size: larger;
+}
+
+.navigationLink:active {
+    color: rgb(119, 202, 223);
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(14, 51, 216);
+    font-weight: bold;
+}
+
+.link:hover {
+    color: rgb(52, 75, 177);
+}
