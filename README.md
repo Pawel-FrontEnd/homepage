@@ -11,8 +11,8 @@ The website was created as part of the YouCode course. There is some information
 ## Demo:
 https://pawel-frontend.github.io/homepage/
 ## Used features:
-- HTML
+- Semantic HTML
 - CSS
-- JS
-- BEM
+- ES6+ features
+- BEM naming
 ## Author: Paweł Dardziński
